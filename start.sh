@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=4a954b32-759e-499b-9378-31a410bf131e
+AUUID=e517a24b-5ecd-42b4-b879-a7adb6921c0c
 CADDYIndexPage=https://github.com/Externalizable/bongo.cat/archive/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
